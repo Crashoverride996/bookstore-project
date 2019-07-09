@@ -1,0 +1,13 @@
+<div id="books">
+    <h2>Books</h2>
+    <br/><br/>
+  <div class="book" *ngFor="let book of books">
+    <a routerLink="/book/{{ book.id }}" routerLinkActive="active">
+      <h3>{{ book.name }}</h3>
+      <img src='../../assets/{{ book.img }}' alt='book.name'/>
+    </a>
+    <h6>by {{ book.author }}</h6>
+    <span>Price {{ book.price }} $</span><br/>
+    <button type="button" class=".add">Add to basket</button>
+  </div>
+</div>

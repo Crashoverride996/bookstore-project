@@ -1,0 +1,32 @@
+#indiv_book {
+    min-height: 250px;
+    overflow: overlay;
+}
+
+.indiv_book_left, .indiv_book_right {
+    display: inline-block;
+}
+
+.indiv_book_left {
+    float: left;
+    width: 34%;
+}
+
+.indiv_book_right {
+    float: right;
+    width: 65%;    
+}
+
+.indiv_book_left img {
+    height: 240px;
+    width: 200px;
+}
+
+.indiv_book_right h3 {
+    color: #10bbd5;
+}
+
+#book_form {
+    display: block;
+    text-align: center;
+}

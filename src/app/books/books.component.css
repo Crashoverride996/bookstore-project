@@ -1,0 +1,37 @@
+#books h2 {
+    color: #87e8a7;
+}
+
+.book {
+    width: 25%;
+    display: inline-block;
+    margin-bottom: 2%;
+}
+
+.book h3 {
+    color: #10bbd5;
+}
+
+.book img {
+    height: 240px;
+}
+
+.book span {
+    color: #10bbd5;
+}
+
+.add {
+    height: 40px;
+    width: 150px;
+    border: 0;
+    margin: 0;
+    background-color: #4c394e !important;
+    color: #fff;
+    text-decoration: none;
+    text-align: center;
+    border-radius: .6rem;
+    box-shadow: none;
+    cursor: pointer;
+    font-weight: bold;
+    box-shadow: none;
+}

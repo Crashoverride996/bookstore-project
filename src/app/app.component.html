@@ -1,0 +1,35 @@
+<!-- Header -->
+<div id="header">
+
+        <!-- Logo -->
+            <h1><a routerLink="" routerLinkActive="active" id="logo">Betelgeuse Bookstore</a></h1>
+
+        <!-- Nav -->
+            <nav id="nav">
+                <ul>
+                    <li id="home_link" class="links current"><a routerLink="" routerLinkActive="active">Home</a></li>
+                    <li id="books_link" class="links"><a routerLink="/books" routerLinkActive="active">Books</a></li>
+                    <li id="contact_link" class="links"><a routerLink="/contact" routerLinkActive="active">Contact</a></li>
+                    <li id="author_link" class="links"><a routerLink="/author" routerLinkActive="active">Author</a></li>
+                    <!--<li><a href="no-sidebar.html">No Sidebar</a></li>-->
+                </ul>
+            </nav>
+
+
+<!-- Banner -->
+    <section id="banner">
+        <header>
+            <h2><a>Finding good homes for books since 1972.</a></h2>
+            <a routerLink="/contact" routerLinkActive="active" class="button">Learn More</a>
+        </header>
+    </section>
+
+
+    <section class="wrapper style1">
+        <div class="container">
+            <router-outlet></router-outlet>
+        </div>
+    </section>
+
+    
+</div>

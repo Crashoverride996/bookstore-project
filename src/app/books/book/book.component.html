@@ -1,0 +1,38 @@
+<div id="indiv_book">
+  <div class="indiv_book_left">
+    <img src='../../../assets/{{ book.img }}' alt='{{ book.name }}'/>
+  </div>
+  <div class="indiv_book_right">
+    <h3>{{ book.name }}</h3>
+    <h6>by {{ book.author }}</h6>
+    <p>{{ book.description }}</p>
+  </div>
+</div>
+<br/>
+<div id="book_coment_section">
+  <h4>Comment Section:</h4>
+  <div class="book_comment" *ngFor="let comment of book.comments">
+    <h5>User: {{ comment.username }}</h5>
+    <span>Comment: {{ comment.comment }}</span>
+  </div>
+</div>
+<br/>
+<div id="book_form">
+  <h5>Leave a comment about this book</h5>
+  <form [formGroup]="commentForm">
+      <label>Username: </label>
+      <input type="text" id="username" class="form-control" formControlName="username">
+      <span *ngIf="!commentForm.get('username').valid && commentForm.get('username').touched" class="help-block">Please enter a username</span>
+      <br/>
+      <label>Email: </label>
+      <input type="text" id="email" class="form-control" formControlName="email">
+      <span *ngIf="!commentForm.get('email').valid && commentForm.get('email').touched" class="help-block">Please enter a email</span>
+      <br/>
+      <label>Message: </label>
+      <textarea id="message" class="form-control" formControlName="message"></textarea>
+      <span *ngIf="!commentForm.get('message').valid && commentForm.get('message').touched" class="help-block">Please enter a message</span>
+      <br/>
+      <input type="hidden" id="id" class="form-control" formControlName="id" value="{{ book.id }}">
+      <button (click)="addComment()" [disabled]="!commentForm.valid" class="btn btn-primary">Submit</button>
+  </form>
+</div>

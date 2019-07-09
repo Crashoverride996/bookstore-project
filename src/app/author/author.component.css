@@ -1,0 +1,27 @@
+#author {
+    min-height: 250px;
+    overflow: overlay;
+    width: 80%;
+}
+
+#author h3 {
+    color: #10bbd5;
+}
+
+#author_left, #author_right {
+    display: inline-block;
+}
+
+#author_left {
+    float: left;
+    width: 34%;
+}
+
+#author_right {
+    width: 65%;
+}
+
+#author_left img {
+    height: 240px;
+    width: 200px;
+}

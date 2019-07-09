@@ -1,0 +1,15 @@
+<div id="bestselling_books">
+  <h2>Bestsellers</h2>
+  <br/><br/>
+  <div class="bestselling_book" *ngFor="let bestselling_book of bestselling_books">
+    <div class="bestselling_book_left col text-center justify-content-center align-self-center">
+        <img src='../../assets/{{ bestselling_book.img }}' alt='{{ bestselling_book.name }}'/>
+    </div>
+    <div class="bestselling_book_right">
+        <h3>{{ bestselling_book.name }}</h3>
+        <h6>By {{bestselling_book.author }}</h6>
+        <br/>
+        <p>{{ bestselling_book.description }}</p>
+    </div>
+  </div>
+</div>

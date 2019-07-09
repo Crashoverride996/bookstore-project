@@ -1,0 +1,30 @@
+#bestselling_books h2 {
+    color: #87e8a7;
+}
+
+.bestselling_book {
+    min-height: 250px;
+    border: 1px solid gray;
+    overflow: overlay;
+}
+
+.bestselling_book_left, .bestselling_book_right {
+    display: inline-block;
+}
+
+.bestselling_book_left {
+    float: left;
+    width: 34%;
+    vertical-align: middle;
+}
+
+.bestselling_book_right {
+    float: right;
+    width: 65%;
+}
+
+.bestselling_book_left img {
+    height: 240px;
+    width: 200px;
+    vertical-align: middle;
+}

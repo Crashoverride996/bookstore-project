@@ -1,0 +1,15 @@
+<div id="author">
+  <h3>Author</h3>
+  <br/><br/>
+  <div id="author_left">
+    <img src="../../assets/{{ author.image }}" alt="{{ author.first_name | uppercase }}"/>
+  </div>
+  <div id="author_right">
+      <p><strong>Fullname:</strong><em> {{ author.first_name + " " + author.last_name }}</em></p>
+      <p><strong>Place of birth:</strong><em> {{ author.birth_place }}</em></p>
+      <p><strong>Age:</strong><em> {{ author.age }}</em></p>
+      <p><strong>Occupation:</strong><em> {{ author.occupation }}</em></p>
+      <p><strong>Student at:</strong><em> {{ author.college | uppercase }}</em></p>
+      <p><strong>Started studies:</strong><em> {{ author.started_studies | date }}</em></p>
+  </div>
+</div>

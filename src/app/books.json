@@ -1,0 +1,227 @@
+[
+    {
+        "id": 1,
+        "name": "1984",
+        "author": "George Orwell",
+        "img": "images/1984.jpg",
+        "description": "Nineteen Eighty-Four, often published as 1984, is a dystopian novel by English writer George Orwell published in June 1949, whose themes centre on the risks of government overreach, totalitarianism and repressive regimentation of all persons and behaviours within society.[2][3] The novel is set in an imagined future, the year 1984, when much of the world has fallen victim to perpetual war, omnipresent government surveillance, historical negationism and propaganda.",
+        "price": 15,
+        "comments": []        
+    },
+    {
+        "id": 2,
+        "name": "A Dog's Heart",
+        "author": "Mikhail Bulgakov",
+        "img": "images/ADogsHeart.jpg",
+        "description": "Heart of a Dog (Russian: Собачье сердце, Sobachye syerdtsye) is a novel by Russian author Mikhail Bulgakov. A biting satire of Bolshevism, it was written in 1925 at the height of the NEP period, when communism appeared to be relaxing in the Soviet Union.[1] It is generally interpreted as an allegory of the Communist revolution and 'the revolution's misguided attempt to radically transform mankind.' Its publication was initially prohibited in the Soviet Union, but it circulated in samizdat until it was officially released in the country in 1987. The novel has become a cultural phenomenon in Russia, known and discussed by people 'from schoolchildren to politicians.' It has become a subject of critical argument, was filmed in Russian and Italian-language versions, and was adapted in English as a play and an opera.", 
+        "price": 7.99,
+        "comments": [] 
+    },
+    {
+        "id": 3,
+        "name": "A Farewell to Arms",
+        "author": "Ernest Hemingway",
+        "img": "images/AFarewellToArms.jpg",
+        "description": "A Farewell to Arms is a novel by Ernest Hemingway set during the Italian campaign of World War I. First published in 1929, it is a first-person account of an American, Frederic Henry, serving as a lieutenant ('tenente') in the ambulance corps of the Italian Army. The title is taken from a poem by the 16th-century English dramatist George Peele. The novel, set against the backdrop of World War I, describes a love affair between the expatriate Henry and an English nurse, Catherine Barkley. Its publication ensured Hemingway's place as a modern American writer of considerable stature.[2] The book became his first best-seller, and has been called 'the premier American war novel from that debacle World War I.'",
+        "price": 19.49,
+        "comments": [] 
+    },
+    {
+        "id": 4,
+        "name": "Animal Farm",
+        "author": "George Orwell",
+        "img": "images/AnimalFarm.jpg",
+        "description": "Animal Farm is an allegorical novella by George Orwell, first published in England on 17 August 1945.[1][2] According to Orwell, the fable reflects events leading up to the Russian Revolution of 1917 and then on into the Stalinist era of the Soviet Union. Orwell, a democratic socialist, was a critic of Joseph Stalin and hostile to Moscow-directed Stalinism, an attitude that was critically shaped by his experiences during the Spanish Civil War.[6][a] The Soviet Union, he believed, had become a brutal dictatorship, built upon a cult of personality and enforced by a reign of terror.",
+        "price": 14.49,
+        "comments": [] 
+    },
+    {
+        "id": 5,
+        "name": "Blood of Elves",
+        "author": "Andrzej Sapkowski",
+        "img": "images/BloodOfElves.jpg",
+        "description": "Blood of Elves (Polish: Krew elfów) is the first novel in the Witcher Saga written by the Polish fantasy writer Andrzej Sapkowski, first published in Poland in 1994. It is a sequel to the Witcher short stories collected in the books The Last Wish (Ostatnie życzenie) and Sword of Destiny (Miecz przeznaczenia) and is followed by Time of Contempt (Czas pogardy). The book won the Janusz A. Zajdel Award and David Gemmell Legend Award awards. An English translation was published in the United Kingdom in 2008 (Gollancz) and in the United States in 2009 (Orbit).",
+        "price": 17,
+        "comments": [] 
+    },
+    {
+        "id": 6,
+        "name": "Breakfast of Champions",
+        "author": "Kurt Vonnegut",
+        "img": "images/BreakfastOfChampions.jpg",
+        "description": "Breakfast of Champions, or Goodbye Blue Monday is a 1973 novel by the American author Kurt Vonnegut. His seventh novel, it is set predominantly in the fictional town of Midland City, Ohio and focuses on two characters: Dwayne Hoover, a Midland resident, Pontiac dealer and affluent figure in the city and Kilgore Trout, a widely published but mostly unknown science fiction author. Breakfast of Champions has themes of free will, suicide, and race relations among others.",
+        "price": 14.49,
+        "comments": [] 
+    },
+    {
+        "id": 7,
+        "name": "Catcher in the Rye",
+        "author": "J. D. Salinger",
+        "img": "images/Catcher.jpg",
+        "description": "The Catcher in the Rye is a story by J.D. Salinger, partially published in serial form in 1945–1946 and as a novel in 1951. It was originally intended for adults but is read by adolescents for its themes of angst and alienation, and as a critique on superficiality in society. It has been translated into almost all of the world's major languages. Around one million copies are sold each year, with total sales of more than 65 million books. The novel's protagonist Holden Caulfield has become an icon for teenage rebellion. The novel also deals with complex issues of innocence, identity, belonging, loss, and connection.",
+        "price": 11.49,
+        "comments": [] 
+    },
+    {
+        "id": 8,
+        "name": "Fight Club",
+        "author": "Chuck Palahniuk",
+        "img": "images/FightClub.jpg",
+        "description": "Fight Club is a 1999 film based on the 1996 novel by Chuck Palahniuk. It was directed by David Fincher and stars Brad Pitt, Edward Norton, and Helena Bonham Carter. Norton plays the unnamed narrator, who is discontented with his white-collar job. He forms a 'fight club' with soap salesman Tyler Durden (Pitt), and becomes embroiled in a relationship with him and a destitute woman, Marla Singer (Bonham Carter).",
+        "price": 14.99,
+        "comments": [] 
+    },
+    {
+        "id": 9,
+        "name": "Green Mile",
+        "author": "Stephen King",
+        "img": "images/GreenMile.jpg",
+        "description": "The Green Mile is a 1996 serial novel by American writer Stephen King. It tells the story of death row supervisor Paul Edgecombe's encounter with John Coffey, an unusual inmate who displays inexplicable healing and empathetic abilities. The serial novel was originally released in six volumes before being republished as a single-volume work. The book is an example of magical realism.",
+        "price": 20.49,
+        "comments": [] 
+    },
+    {
+        "id": 10,
+        "name": "Lady of the Lake",
+        "author": "Andrzej Sapkowski",
+        "img": "images/LadyOfTheLake.jpg",
+        "description": "The Lady of the Lake (Polish original title: Pani Jeziora) is the fifth novel in the Witcher Saga written by Polish fantasy writer Andrzej Sapkowski, first published in Poland in 1999. It is a sequel to the fourth Witcher novel, The Swallow's Tower (Wieża Jaskółki).",
+        "price": 15.99,
+        "comments": [] 
+    },
+    {
+        "id": 11,
+        "name": "Master and Margarite",
+        "author": "Mikhail Bulgakov",
+        "img": "images/MasterAndMargarite.jpg",
+        "description": "The Master and Margarita (Russian: Мастер и Маргарита) is a novel by Russian writer Mikhail Bulgakov, written in the Soviet Union between 1928 and 1940 during Stalin's regime. A censored version was published in Moscow magazine in 1966–1967, after the writer's death. The manuscript was not published as a book until 1967, in Paris. A samizdat version circulated that included parts cut out by official censors, and these were incorporated in a 1969 version published in Frankfurt. The novel has since been published in several languages and editions.",
+        "price": 19.49,
+        "comments": [] 
+    },
+    {
+        "id": 12,
+        "name": "Necronomicon",
+        "author": "H. P. Lovecraft",
+        "img": "images/Necronomicon.jpg",
+        "description": "The Necronomicon is a fictional grimoire (textbook of magic) appearing in stories by the horror writer H. P. Lovecraft and his followers. It was first mentioned in Lovecraft's 1924 short story 'The Hound', written in 1922, though its purported author, the 'Mad Arab' Abdul Alhazred, had been quoted a year earlier in Lovecraft's 'The Nameless City'. Among other things, the work contains an account of the Old Ones, their history, and the means for summoning them.",
+        "price": 25.99,
+        "comments": [] 
+    },
+    {
+        "id": 13,
+        "name": "Pet Sematary",
+        "author": "Stephen King",
+        "img": "images/PetSematary.jpg",
+        "description": "Pet Sematary is a 1983 horror novel by American writer Stephen King. The novel was nominated for a World Fantasy Award for Best Novel in 1986, and adapted into two films: one in 1989 and another in 2019. In November 2013, PS Publishing released Pet Sematary in a limited 30th-anniversary edition.",
+        "price": 12,
+        "comments": [] 
+    },
+    {
+        "id": 14,
+        "name": "Savages",
+        "author": "Don Winslow",
+        "img": "images/Savages.jpg",
+        "description": "Savages is a crime novel by American author Don Winslow, published in 2010. It was followed in 2012 by a prequel, The Kings of Cool.",
+        "price": 14.49,
+        "comments": [] 
+    },
+    {
+        "id": 15,
+        "name": "Season of Storms",
+        "author": "Andrzej Sapkowski",
+        "img": "images/SeasonOfStorms.jpg",
+        "description": "Season of Storms (Polish original title: Sezon burz) is the sixth novel and eighth overall book in the Witcher series written by Polish fantasy writer Andrzej Sapkowski, first published in Poland in 2013. It is not a sequel to the original Witcher Saga, but rather is set between the short stories in the first book in the series, The Last Wish.",
+        "price": 17.99,
+        "comments": [] 
+    },
+    {
+        "id": 16,
+        "name": "Sword of Destiny",
+        "author": "Andrzej Sapkowski",
+        "img": "images/SwordOfDestiny.jpg",
+        "description": "Sword of Destiny (Polish original title: Miecz przeznaczenia), is the second (in its fictional chronology; first in Polish print) of the two collections of short stories (the other being The Last Wish), both preceding the main Witcher Saga. The stories were written by Polish fantasy writer Andrzej Sapkowski. The first Polish edition was published in 1992; the English edition was published in the UK by Gollancz in 2015.",
+        "price": 15.49,
+        "comments": [] 
+    },
+    {
+        "id": 17,
+        "name": "The Best Intentions",
+        "author": "Ingmar Bergman",
+        "img": "images/TheBestIntentions.jpg",
+        "description": "Based on the courtship and marriage of Ingmar Bergman's own parents, The Best Intentions describes the complex, tumultuous love of a man and woman and the miracle of what love is: overriding and, so often, inexplicable. Henrik is a struggling, somber divinity student; Anna the impetuous but slightly pampered daughter of a bourgeois family. Anna's mother, Karin, fiercely opposes their marriage and uses everything in her power--including deceit--first to prevent it, then to break it up. Yet even her basest actions are not ill-meaning but filled with good intentions. In fact, all the characters act with the best intentions, however wrongheaded their behavior. Incorporating some of the elements of stage and screen, including cinematic dialogues and personal asides, Bergman has written a novel of great beauty and uncompromising honesty, a work filled with joy and sadness, sacrifice and reconciliation--and above all, abiding love. This stunning novel was named a New York Times Notable Book of the Year and the film adaptation, directed by Bille August, won the Palm D'OR at the Cannes Film Festival.",
+        "price": 19.49,
+        "comments": [] 
+    },
+    {
+        "id": 18,
+        "name": "The Day Watch",
+        "author": "Sergei Lukyanenko",
+        "img": "images/TheDayWatch.jpg",
+        "description": "Day Watch (Russian: «Дневной Дозор») is a fantasy novel by Russian authors Sergey Lukyanenko and Vladimir Vasilyev. The second book in the saga of Watches, it is preceded by Night Watch and followed by Twilight Watch, Last Watch, New Watch, and Sixth Watch. Day Watch also stands out of the saga as the only novel in the series not narrated mainly from Anton Gorodetsky's point of view.",
+        "price": 14,
+        "comments": [] 
+    },
+    {
+        "id": 19,
+        "name": "The Gunslinger",
+        "author": "Stephen King",
+        "img": "images/TheGunslinger.jpg",
+        "description": "The Gunslinger is a fantasy novel by American author Stephen King, the first volume in the Dark Tower series. The Gunslinger was first published in 1982 as a fix-up novel, joining five short stories that had been published between 1978 and 1981. King substantially revised the novel in 2003, and this version is in print today. The story centers upon Roland Deschain, the last gunslinger, who has been chasing after his adversary, 'the man in black,' for many years. The novel fuses Western fiction with fantasy, science fiction and horror, following Roland's trek through a vast desert and beyond in search of the man in black. Roland meets several people along his journey, including a boy named Jake Chambers who travels with him part of the way.",
+        "price": 14.49,
+        "comments": [] 
+    },
+    {
+        "id": 20,
+        "name": "Time of Contempt",
+        "author": "Andzrej Sapkowski",
+        "img": "images/TimeOfContempt.jpg",
+        "description": "Time of Contempt (Polish original title: Czas pogardy, early title was translated less literally as Time of Anger) is the second novel in the Witcher Saga written by Polish fantasy writer Andrzej Sapkowski, first published 1995 in Polish, and 2013 in English. It is a sequel to the first Witcher novel Blood of Elves (Krew elfów) and is followed by Baptism of Fire (Chrzest ognia).",
+        "price": 16,
+        "comments": [] 
+    },
+    {
+        "id": 21,
+        "name": "The Last Wish",
+        "author": "Andzrej Sapkowski",
+        "img": "images/TheLastWish.jpg",
+        "description": "The Last Wish (Polish: Ostatnie życzenie) is the first (in its fictional chronology; published second in original Polish) of the two collections of short stories (the other being Sword of Destiny) preceding the main Witcher Saga, written by Polish fantasy writer Andrzej Sapkowski. The first Polish edition was published in 1993 and the first English edition was first published in 2007. The book has also been translated into several other languages. The collection contains six short stories interspersed with a continuing frame story: Geralt of Rivia, after having been injured in battle, rests in a temple. During that time he has flashbacks to recent events in his life, with each flashback forming a short.",
+        "price": 19.99,
+        "comments": [] 
+    },
+    {
+        "id": 22,
+        "name": "The Night Watch",
+        "author": "Sergei Lukyanenko",
+        "img": "images/TheNightWatch.jpg",
+        "description": "Night Watch (Russian: «Ночной Дозор») is the first fantasy novel by the Russian author Sergei Lukyanenko to feature his fictional world of the Others. Lukyanenko wrote the story in 1998 and the book was first published in Russia by AST in 1998. The story revolves around a confrontation between two opposing supernatural groups (known as 'Others'): the Night Watch, an organization dedicated to policing the actions of the Dark Others—and the Day Watch, which polices the actions of the Light Others.",
+        "price": 12.99,
+        "comments": [] 
+    },
+    {
+        "id": 23,
+        "name": "The Stranger",
+        "author": "Albert Camus",
+        "img": "images/TheStranger.jpg",
+        "description": "L’Étranger (The Outsider [UK], or The Stranger [US]) is a 1942 novel by French author Albert Camus. Its theme and outlook are often cited as examples of Camus's philosophy of the absurd and existentialism, though Camus personally rejected the latter label. The title character is Meursault, an indifferent French Algerian described as 'a citizen of France domiciled in North Africa, a man of the Mediterranean, an homme du midi yet one who hardly partakes of the traditional Mediterranean culture'. He attends his mother's funeral. A few days later, he kills an Arab man in French Algiers, who was involved in a conflict with a friend. Meursault is tried and sentenced to death. The story is divided into two parts, presenting Meursault's first-person narrative view before and after the murder, respectively.",
+        "price": 9.99,
+        "comments": [] 
+    },
+    {
+        "id": 24,
+        "name": "The Tower of the Swallow",
+        "author": "Andzrej Sapkowski",
+        "img": "images/TheTower.jpg",
+        "description": "The Tower of the Swallow, known as The Tower of Swallows in the United States (Polish original title: Wieża Jaskółki) is the fourth novel in the Witcher Saga written by Polish fantasy writer Andrzej Sapkowski, first published in Poland in 1997. It is a sequel to the third Witcher novel Baptism of Fire (Chrzest ognia) and is followed by the final entry in the series, The Lady of the Lake (Pani Jeziora).",
+        "price": 17,
+        "comments": [] 
+    },
+    {
+        "id": 25,
+        "name": "The Hitchhiker's Guide to the Galaxy",
+        "author": "Douglas Adams",
+        "img": "images/TheHitchhikersGuide.jpg",
+        "description": "The Hitchhiker's Guide to the Galaxy is the first of six books in the Hitchhiker's Guide to the Galaxy comedy science fiction 'trilogy' by Douglas Adams. The novel is an adaptation of the first four parts of Adams' radio series of the same name. The novel was first published in London on 12 October 1979. It sold 250,000 copies in the first three months.",
+        "price": 25.99,
+        "comments": [] 
+    }
+]
